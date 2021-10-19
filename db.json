@@ -1,61 +1,73 @@
 {
     "results":[{
-        "title":"fastandfurious",
-        "img":"https://i.ibb.co/YjDVzL4/anime1.png",
+        "title":"jatiratnalu",
+        "img":"https://i.ibb.co/vDMFdw1/Jatiratnalu.jpg",
         "rating":4,
         "low":"https://drive.google.com/uc?id=12aIxluCZ749EBoL0nY7BfeQQKkV9jkEZ&export=download"
         
 
     },
     {
-        "name":"shangchi",
-         "img":"https://i.ibb.co/YjDVzL4/anime1.png"
+        "name":"Jacksynder",
+        "rating":8.5,
+         "img":"https://i.ibb.co/PQ4QCrT/Jacksynder.jpg"
+        
 
     },
     {
-        "name":"batman",
-          "img":"https://i.ibb.co/YjDVzL4/anime1.png"
+        "name":"kong vs godzilla",
+        "rating":4,
+          "img":"https://i.ibb.co/9c7tBQV/kongvs-godzilla.jpg"
 
     }, {
-        "name":"batman",
-          "img":"https://i.ibb.co/YjDVzL4/anime1.png"
+        "name":"raya",
+        "rating":6,
+          "img":"https://i.ibb.co/gdqmLvL/Raya-The-Last-Dragon-Premier-Theater-Poster.jpg"
 
     }, {
-        "name":"batman",
-          "img":"https://i.ibb.co/YjDVzL4/anime1.png"
+        "name":"the father",
+        "rating":4,
+          "img":"https://i.ibb.co/BwTnFdP/Thefather.jpg"
 
     },
               {
+        "name":"D2",
+                  "rating":8,
+          "img":"https://i.ibb.co/HzGbQw7/d2.jpg"
+
+    },
+{
         "name":"batman",
+    "rating":4,
           "img":"https://i.ibb.co/YjDVzL4/anime1.png"
 
     },
 {
         "name":"batman",
+    "rating":6,
           "img":"https://i.ibb.co/YjDVzL4/anime1.png"
 
     },
 {
         "name":"batman",
-          "img":"https://i.ibb.co/YjDVzL4/anime1.png"
-
-    },
-{
-        "name":"batman",
+    "rating":4,
           "img":"https://i.ibb.co/YjDVzL4/anime1.png"
 
     },{
         "name":"batman",
+        "rating":3,
           "img":"https://i.ibb.co/YjDVzL4/anime1.png"
 
     },
 {
         "name":"batman",
+    "rating":9,
           "img":"https://i.ibb.co/YjDVzL4/anime1.png"
 
     },
 {
         "name":"batman",
+    "rating":8,
           "img":"https://i.ibb.co/YjDVzL4/anime1.png"
 
     }]
